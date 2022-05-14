@@ -14,7 +14,7 @@ Muestra el uso de:
     </ul>
     </p>
 <br>
-objetivo: Resolver una operación de la temperatura en lenguaje C.
+Objetivo: Resolver una operación de la temperatura en lenguaje C.
 <br>
 <p>Breve descripcion:
 Este programa busca el resultado de convertir de grados Centígrados a Fahrenheit, <br>

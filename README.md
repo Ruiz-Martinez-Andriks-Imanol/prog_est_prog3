@@ -11,7 +11,7 @@ Muestra el uso de:
     <li>printf para mostrar varias variables</li>
     <li>scanf</li>
     <li>Usa la libreria include para las librerías</li>
-<li>Comentarios para la doumentación interna del programa.</li>
+<li>Comentarios para la documentación interna del programa.</li>
     </ul>
     </p>
 <br>

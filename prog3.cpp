@@ -1,25 +1,18 @@
-/* Autor: Andriks Imanol Ruiz Mart韓ez, Realizado: 03/02/2022 
+/* Autor: Andriks Imanol Ruiz Mart铆nez, Realizado: 03/02/2022 
 	Escuela: Universidad del Valle de Mexico Campus Villahermosa <br>
-	Materia: Programaci髇 Estructrada
+	Materia: Programaci贸n Estructrada
 	Ciclo: 01/2022</p>
 	
-Este es un programa de la estructura b醩ica de Lenguaje C de la materia de Programaci髇 Estructurada
+Este es un programa de la estructura b谩sica de Lenguaje C de la materia de Programaci贸n Estructurada
 Muestra el uso de:
     -Variables flotantes
     -printf para mostrar varias variables
     -scanf
-	-Comentarios para la doumentaci髇 interna del programa.
-
-objetivo: Resolver una operaci髇 de la temperatura en lenguaje C.
-
-Breve descripcion:
-Este programa busca el resultado de convertir de grados Cent韌rados a Fahrenheit, 
-usando la formula establecida para la conversi髇. 
-Este programa usa variables flotantes, es decir, decimales 
+    -Comentarios para la doumentaci贸n interna del programa.
 	*/
 #include<stdio.h>
 int main(){
-	//Declaraci髇
+	//Declaraci贸n
 	float F, C;
 	//Entrada de datos
 	printf("Introduce la temperatura en Centigrados: ");

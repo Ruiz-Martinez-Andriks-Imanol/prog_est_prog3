@@ -8,7 +8,7 @@ Muestra el uso de:
     -Variables flotantes
     -printf para mostrar varias variables
     -scanf
-    -Comentarios para la doumentación interna del programa.
+    -Comentarios para la documentación interna del programa.
 	*/
 #include<stdio.h>
 int main(){

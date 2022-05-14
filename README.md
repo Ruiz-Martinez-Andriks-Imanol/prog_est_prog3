@@ -10,6 +10,7 @@ Muestra el uso de:
     <li>Variables flotantes</li>
     <li>printf para mostrar varias variables</li>
     <li>scanf</li>
+    <li>usa la libreria include para las librerías</li>
 <li>Comentarios para la doumentación interna del programa.</li>
     </ul>
     </p>

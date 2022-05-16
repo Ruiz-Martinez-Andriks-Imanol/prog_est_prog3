@@ -17,6 +17,7 @@ Muestra el uso de:
 <br>
 <b>Objetivo:</b> Resolver una operación de la temperatura en lenguaje C.
 <br>
+<br>
 <p><b>Breve descripcion:</b>
 Este programa busca el resultado de convertir de grados Centígrados a Fahrenheit, <br>
 usando la formula establecida para la conversión. <br>

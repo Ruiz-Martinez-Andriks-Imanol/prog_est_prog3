@@ -1,7 +1,7 @@
 /* Autor: Andriks Imanol Ruiz Martínez, Realizado: 03/02/2022 
-	Escuela: Universidad del Valle de Mexico Campus Villahermosa <br>
-	Materia: Programación Estructrada
-	Ciclo: 01/2022</p>
+	Escuela: Universidad del Valle de Mexico Campus Villahermosa 
+	Materia: Programación Estructurada
+	Ciclo: 01/2022
 	
 Este es un programa de la estructura básica de Lenguaje C de la materia de Programación Estructurada
 Muestra el uso de:

@@ -1,7 +1,7 @@
 # prog_est_prog3
-<p>Autor: Andriks Imanol Ruiz Martinez, <b>Fecha:</b> 03/02/2022  <br>
-Escuela: Universidad del Valle de Mexico <b>Campus</b> Villahermosa <br>
-Materia: Programación Estructurada <br>
+<p><b>Autor:</b> Andriks Imanol Ruiz Martínez, <b>Fecha:</b> 03/02/2022  <br>
+  <b>Escuela:</b> Universidad del Valle de Mexico <b>Campus</b> Villahermosa <br>
+  <b>Materia:</b> Programación Estructurada <br>
 Ciclo: 01/2022</p>
 <br>
 <p>Este es un programa de la estructura básica de Lenguaje C de la materia de Programación Estructurada<br>
@@ -15,9 +15,9 @@ Muestra el uso de:
     </ul>
     </p>
 <br>
-Objetivo: Resolver una operación de la temperatura en lenguaje C.
+<b>Objetivo:</b> Resolver una operación de la temperatura en lenguaje C.
 <br>
-<p>Breve descripcion:
+<p><b>Breve descripcion:</b>
 Este programa busca el resultado de convertir de grados Centígrados a Fahrenheit, <br>
 usando la formula establecida para la conversión. <br>
 Este programa usa variables flotantes, es decir, decimales <br>

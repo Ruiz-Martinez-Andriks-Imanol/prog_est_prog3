@@ -1,7 +1,7 @@
 # prog_est_prog3
 <p>Autor: Andriks Imanol Ruiz Martinez, fecha: 03/02/2022  <br>
 Escuela: Universidad del Valle de Mexico Campus Villahermosa <br>
-Materia: Programación Estructrada
+Materia: Programación Estructrada <br>
 Ciclo: 01/2022</p>
 <br>
 <p>Este es un programa de la estructura básica de Lenguaje C de la materia de Programación Estructurada<br>
